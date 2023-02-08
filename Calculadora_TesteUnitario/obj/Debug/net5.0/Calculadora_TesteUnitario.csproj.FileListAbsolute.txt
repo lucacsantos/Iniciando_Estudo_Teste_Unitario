@@ -1,0 +1,12 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\bin\Debug\net5.0\Calculadora_TesteUnitario.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\bin\Debug\net5.0\Calculadora_TesteUnitario.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\bin\Debug\net5.0\ref\Calculadora_TesteUnitario.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\bin\Debug\net5.0\Calculadora_TesteUnitario.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\Calculadora_TesteUnitario.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\Calculadora_TesteUnitario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\Calculadora_TesteUnitario.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\Calculadora_TesteUnitario.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\Calculadora_TesteUnitario.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\Calculadora_TesteUnitario.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\ref\Calculadora_TesteUnitario.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\lucas\estudos\Calculadora_TesteUnitario\Calculadora_TesteUnitario\obj\Debug\net5.0\Calculadora_TesteUnitario.pdb
